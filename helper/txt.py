@@ -61,7 +61,7 @@ Example:- /set_caption 📕 File Name: {filename}
 """
 
 #⚠️ don't remove our credits 🙏😢😢
-    DEV_TXT = """
+    DEV_TXT = ""
 <u><b>SUPPORTS</b></u> 
 
 <b><u>Special Thanks & Developers</b></u> 
