@@ -64,7 +64,7 @@ Example:- /set_caption 📕 File Name: {filename}
     DEV_TXT = ""
 <u><b>SUPPORTS</b></u> 
 
-<b><u>Special Thanks & Developers</b></u> 
+<b><u>Special Thanks</b></u> 
 
 » 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://github.com/theonetestbot/renameplus>𝐓𝐇𝐄 𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓</a>
 » 𝐘𝐎𝐔𝐓𝐔𝐁𝐄 : <a href=https://www.youtube.com/c/AmolAdhude>THE ONE</a>
