@@ -2,6 +2,7 @@ from pyrogram import Client
 from config import API_ID, API_HASH, BOT_TOKEN, FORCE_SUB, PORT, WEBHOOK 
 from aiohttp import web
 from route import web_server
+import time
 
 class Bot(Client):
 
@@ -43,4 +44,11 @@ class Bot(Client):
        
 
 bot=Bot()
-bot.run()
+
+while True:
+    try:
+        bot.run()
+    except Exception as e:
+        print(e)
+        print("Restarting in 5 seconds...")
+        time.sleep(5)
