@@ -60,10 +60,12 @@ Example:- /set_caption 📕 File Name: {filename}
 ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/amoltheone>𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑮𝑹𝑶𝑼𝑷</a>
 """
 
+
 #⚠️ don't remove our credits 🙏😢😢
-    DEV_TXT = ""
-<u><b>SUPPORTS</b></u> 
+    DEV_TXT = """
+<b><u>SUPPORTS</b></u> 
 » 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://github.com/theonetestbot/renameplus>𝐓𝐇𝐄 𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓</a>
 » 𝐘𝐎𝐔𝐓𝐔𝐁𝐄 : <a href=https://www.youtube.com/c/AmolAdhude>THE ONE</a>
 
+"""
 
