@@ -38,17 +38,11 @@ class Bot(Client):
         print(f"{me.first_name} 𝚂𝚃𝙰𝚁𝚃𝙴𝙳 ⚡️⚡️⚡️")
       
 
-    async def stop(self, *args):
+     async def stop(self, *args):
         await super().stop()      
         print("Bot Stopped")
        
 
 bot=Bot()
-
-while True:
-    try:
-        bot.run()
-    except Exception as e:
-        print(e)
-        print("Restarting in 5 seconds...")
-        time.sleep(5)
+bot.run()
+       
